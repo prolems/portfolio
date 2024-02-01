@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60214f3a44ded2c429d2cb412eb970ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sg: {instanceID: 0}
+  - fxExplosion: {fileID: 190027692060395828, guid: f636bc4d10e0eba4c9c0b39b347f2951, type: 3}
+  - clip: {fileID: 8300000, guid: a3fb2e0ffe3f4cb42b509aee72868afb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
